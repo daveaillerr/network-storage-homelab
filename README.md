@@ -16,7 +16,7 @@
 
 ## Overview
 
-I transformed my old Lenovo Ideapad 110-14IBR into a 24/7 network storage server accessible from all devices on my home network. The laptop previously had Kali Linux installed, but I decided to repurpose it as my personal network storage solution.
+I transformed my old Lenovo Ideapad 110-14IBR into a 24/7 network storage server accessible to devices on my home network. The laptop previously had Kali Linux installed, but I decided to repurpose it as my personal network storage solution.
 
 ---
 
